@@ -1,5 +1,7 @@
 # Android Messages
 
-Built with [Nativefier](https://www.npmjs.com/package/nativefier), Android Messages provides a clean and native interface to Android messages. Open-source and available for macOS, Windows, and Linux. Have fun!
+Android Messages provides a clean and native interface to https://messages.android.com. This project is 100% open-source and available for macOS, Windows, and Linux. You can download it [here](https://github.com/nparsons08/android-messages/releases/tag/v1.0.0). Enjoy!
 
-![Screenshot](https://i.imgur.com/UUsxiqv.png)
+![Android Messages](https://i.imgur.com/O3H5NWh.png)
+
+![Android Messages](https://i.imgur.com/UUsxiqv.png)
