@@ -1,6 +1,6 @@
 # Android Messages
 
-A clean and native interface to https://messages.google.com/web. Supports dark and light mode on macOS Mojave. This project is 100% open-source and available for [macOS]. Enjoy!
+A clean and native interface to https://messages.google.com/web. Supports dark and light mode on macOS Mojave. This project is 100% open-source and available for macOS. Enjoy!
 
 ![Android Messages](https://i.imgur.com/O3H5NWh.png)
 
