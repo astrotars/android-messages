@@ -1,3 +1,5 @@
+<img src="https://electronjs.org/app-img/android-messages/android-messages-icon-128.png">
+
 # Android Messages
 
 A clean and native interface to https://messages.google.com/web. Supports dark and light mode on macOS Mojave. This project is 100% open-source and available for macOS. Enjoy!
